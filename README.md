@@ -16,6 +16,5 @@ Este aplicativo foi desenvolvido para simplificar tarefas comuns na elaboração
 ## 🚀 Imagem do projeto
 
 <img src="img/imagem do projeto.png" alt="imagem do projeto">
-=======
-# ajudante_tcc
+
 
