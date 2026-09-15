@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕷️ Ajudante TCC do Homem-Aranha
 Um projeto web para auxiliar estudantes na elaboração de seus Trabalhos de Conclusão de Curso (TCC), com funcionalidades de ajuste de ortografia, pesquisa de temas e geração de textos — tudo com cara do Homem-Aranha!
 
@@ -15,3 +16,6 @@ Este aplicativo foi desenvolvido para simplificar tarefas comuns na elaboração
 ## 🚀 Imagem do projeto
 
 <img src="img/imagem do projeto.png" alt="imagem do projeto">
+=======
+# ajudante_tcc
+>>>>>>> 32185dabeda18b9bd13a23735435abf4db37e4c0
